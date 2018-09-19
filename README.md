@@ -21,10 +21,9 @@ Link para download: https://git-scm.com/downloads
 <p><strong>Apos realizar mudancas no codigo e querer mandar para o repositorio remoto(GitHub), realizar os seguintes comandos no terminal do Git</strong></p>
 
 <p>git add < arquivo > (<i>--all (caso deseje enviar todos os arquivos)</i>)</p>
-<small><strong>Ex: </strong>git add cadastro.c / git add --all</small>
-<br>
-<p>git commit -m "Escreva uma mensagem de acordo com as mudancas"</p>
-<small><strong>Ex: </strong>git commit -m "Bug cadastro arrumado"</small>
+<small><strong>Ex: </strong>git add cadastro.c / git add --all</small> <br>
+
+<p>git commit -m "Escreva uma mensagem de acordo com as mudancas"</p><small><strong>Ex: </strong>git commit -m "Bug cadastro arrumado"</small>
 
 <p><strong>Apos isso as mudancas ja estao no seu repositorio local, basta agora enviar para o repositorio remoto(GitHub)</strong></p>
 
