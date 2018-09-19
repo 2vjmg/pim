@@ -1,6 +1,6 @@
 # Guia GitHub
 <h1>Baixando Git</h1>
-<p>Primeiro devemos baixar e instalar o Git no computador
+<p>Primeiro devemos baixar e instalar o Git no computador <br>
 Link para download: https://git-scm.com/downloads
 </p>
 
